@@ -314,7 +314,7 @@ console.log ( 'weekned  wine Netflix and chill' );
   console.log ('I will drink water'); */
 
 
- let age = 22;
+ /*let age = 22;
    const drink = age >= 18 ? 'wine 🍷 ' :  'water 💧';
    console.log(drink);
 
@@ -330,6 +330,7 @@ console.log ( 'weekned  wine Netflix and chill' );
          age >= 18 ? 'wine': 'water'
       }`);
    
+      */
 
 
 
